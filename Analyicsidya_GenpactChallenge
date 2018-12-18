@@ -1,0 +1,4 @@
+This was a Genpact hiring challenge hosted on Analytics vidhya. 
+Objective was to predict the online food orders of coming weeks based on the online food orders of previous weeks. 
+Used linear regression, random forest and gbm models under h2o package in R to arrive to the prediction. 
+The result was calculated using RMSLE calculation. Got the best prediction value of RMSLE of 64 percent using linear regression.
