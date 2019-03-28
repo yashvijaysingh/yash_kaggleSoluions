@@ -1,0 +1,6 @@
+This was a kaggle competition where the objective was to predict the re-sale price of the bulldozers. The output to the solution was
+determined by the RMSE scroe.
+Approaches Considered:-
+Linear Regression - RMSE 0.45
+Decision Trees - RMSE 0.34
+Random Forest - RMSE 0.29
