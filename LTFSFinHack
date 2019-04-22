@@ -1,0 +1,3 @@
+This FinHack was hosted by L&T Financial Services. Participants were required to build a model for their loan default prediction.
+My solution for this includes a comparison between classical models (logistic regression) and machine learning models (ramdom forest and neuralnet)
+The output evalution is done by ROC curve.
